@@ -1,0 +1,21 @@
+.carousel {
+    width: 100%;
+}
+
+.carousel__inner {
+    width: 100%;
+}
+
+.carousel__inner img {
+    width: 100%;
+}
+
+.carousel {
+    padding: 80px 0;
+}
+
+.carousel__inner {
+    position: relative;
+    width: 750px;
+    margin: 0 auto;
+}
